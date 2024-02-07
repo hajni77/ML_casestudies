@@ -7,6 +7,7 @@ Feature Extraction
     With too many features, models can become overfitted to the training data, meaning they may not generalize well to new, unseen data. Feature extraction helps to prevent this by simplifying the model.
 
 Methods of Feature Extraction
+
     Principal Component Analysis (PCA):
         PCA is a statistical method that transforms the data into a new coordinate system, where the greatest variance by some projection of the data comes to lie on the first coordinate (called the first principal component), the second greatest variance on the second coordinate, and so on.
 
